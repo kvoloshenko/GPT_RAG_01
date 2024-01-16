@@ -1,0 +1,12 @@
+TOKEN = '***'        # Telegram Token
+API_KEY = '***'      # Open AI API Key
+SYSTEM_DOC_URL = 'https://docs.google.com/document/d/***'      # Промпт
+KNOWLEDGE_BASE_URL = 'https://docs.google.com/document/d/***'  # База Знаний
+TEMPERATURE = 0.8                 # Температура модели
+NUMBER_RELEVANT_CHUNKS = 5        # Количество релевантных чанков
+CHUNK_SIZE = 1024                 # Количество токинов в  чанке
+LL_MODEL = "gpt-3.5-turbo-0613"   # Модель
+TEXT_BEGINNING = '*** Bot is talking to you: ***'
+TEXT_END = '*** Check the information with the manager! ***'
+QUESTION_FILTER = '@You_ID_bot'
+BOT_START_REPLY = 'Приветствую в сети Антикафе! Я - БорисGPT, Ваш виртуальный консультант. Чем могу помочь?'
