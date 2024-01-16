@@ -1,7 +1,7 @@
 TOKEN = '***'        # Telegram Token
 API_KEY = '***'      # Open AI API Key
-SYSTEM_DOC_URL = 'https://docs.google.com/document/d/***'      # Промпт
-KNOWLEDGE_BASE_URL = 'https://docs.google.com/document/d/***'  # База Знаний
+SYSTEM_DOC_URL = 'https://docs.google.com/document/d/1NTbLQ-65ttIymt0hAjKA6BmbDNRF-Jmb'      # Промпт
+KNOWLEDGE_BASE_URL = 'https://docs.google.com/document/d/1ztIqpg4qTy-Tze12935sZuBJWERSncWU'  # База Знаний
 TEMPERATURE = 0.8                 # Температура модели
 NUMBER_RELEVANT_CHUNKS = 5        # Количество релевантных чанков
 CHUNK_SIZE = 1024                 # Количество токинов в  чанке
