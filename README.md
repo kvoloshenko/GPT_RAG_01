@@ -12,4 +12,13 @@
 ## Пример для запуска в Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kvoloshenko/GPT_RAG_01/blob/main/Colab/TG_Bot_RUN_01.ipynb)
 
+### Структура каталогов на Google Drive:
+```
+TestBot01
+├──  Doc - папка с файлами базы-знаний и промта
+├──  Colab - папка с ноутбуком
+└──  Python - папка с модулями на Python
+       └── Logs - папка с файлами логов.
+```
+
 Приглашаю в Телеграм общаться по это теме: https://t.me/AiExp01
