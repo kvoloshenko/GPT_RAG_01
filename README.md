@@ -10,6 +10,8 @@
 Пример файла с параметрами  **.env** см. здесь: [env_example.txt](Python%2Fenv_example.txt)
 
 ## Пример для запуска в Google Colab
+Видео (5 минут): https://youtu.be/5tpl-fZn-Kk
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kvoloshenko/GPT_RAG_01/blob/main/Colab/TG_Bot_RUN_01.ipynb)
 
 ### Структура каталогов на Google Drive:
